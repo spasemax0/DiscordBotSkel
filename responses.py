@@ -19,6 +19,6 @@ def get_response(message: str) -> str:
         return str(result = translator.translate(input))
 
     if p_message == '!buy puffer fish':
-        return '`no u broke`'
+        return '`no you have no money`'
     if p_message == '!8ball':
         return 'magic_eightball'
