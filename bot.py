@@ -1,3 +1,5 @@
+#Author: spasemax0
+#this is the main bot file where you deal with client events and commands, customize as needed
 import random
 import discord
 import googletrans
