@@ -1,3 +1,4 @@
+#Author: spasemax0
 import bot
 
 if __name__ == '__main__':
